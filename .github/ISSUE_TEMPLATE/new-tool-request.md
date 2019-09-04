@@ -15,6 +15,10 @@ assignees: RHagenson
 
 [Describe the output. Output must be a standard file format.]
 
+# Rejection/Termination Conditions
+
+[Describe any conditions that should result in failure. Think of these conditions as those that are either impossible biologically, or are to prevent misuse of the tool.]
+
 # Similar tools
 
 [Are there similar such tools in existence? How is this tool different?]
